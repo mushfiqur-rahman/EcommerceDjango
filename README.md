@@ -1,5 +1,7 @@
 # EcommerceDjango
 
+#### If you like this project please give a STAR ⭐
+
 I am making this project learning purpose only.
 
 ````
